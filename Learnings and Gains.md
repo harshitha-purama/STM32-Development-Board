@@ -1,4 +1,4 @@
-##Learnings and Gains from the STM32 Development Board Project
+Learnings and Gains from the STM32 Development Board Project
 This project has significantly enhanced my understanding of PCB design and embedded systems development. Here's a summary of the key skills and knowledge I gained:
 
 Core PCB Design Skills:
